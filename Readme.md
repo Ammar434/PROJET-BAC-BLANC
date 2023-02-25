@@ -5,15 +5,15 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 <br />
 
-</div>
+![Web Site System](https://raw.githubusercontent.com/Ammar434/PROJET-BAC-BLANC/master/doc/main.gif)
 
-![Web Site System](https://raw.githubusercontent.com/supunlakmal/thismypc/master/doc/gifAnimations/web_site_system.gif)
+</div>
 
 ## App Screenshots
 
-|                                                                                                Login                                                                                                 |                                                                                       Difficulty selection                                                                                       |                                                                                                  Game                                                                                                  |                                                                                                 Score                                                                                                  |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <img src="https://raw.githubusercontent.com/supunlakmal/thismypc/master/thisMyPCWeb/angular-deprecated/src/assets/images/screen/app-login.PNG" title="Desktop App  Login " width="100%" crossorigin> | <img src="https://raw.githubusercontent.com/supunlakmal/thismypc/master/thisMyPCWeb/angular-deprecated/src/assets/images/screen/app-home.PNG" title="Desktop App Open" width="100%" crossorigin> | <img src="https://raw.githubusercontent.com/supunlakmal/thismypc/master/thisMyPCWeb/angular-deprecated/src/assets/images/screen/web-system.PNG" title="Web App  PC  Drivers" width="100%" crossorigin> | <img src="https://raw.githubusercontent.com/supunlakmal/thismypc/master/thisMyPCWeb/angular-deprecated/src/assets/images/screen/web-system.PNG" title="Web App  PC  Drivers" width="100%" crossorigin> |
+|                                                                 Login                                                                  |                                                                 Difficulty selection                                                                 |                                                                 Game                                                                 |                                                                 Score                                                                  |
+| :------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------: |
+| <img src="https://raw.githubusercontent.com/Ammar434/PROJET-BAC-BLANC/master/doc/image_1.png" title="Login " width="100%" crossorigin> | <img src="https://raw.githubusercontent.com/Ammar434/PROJET-BAC-BLANC/master/doc/image_2.png" title="Difficulty selection" width="100%" crossorigin> | <img src="https://raw.githubusercontent.com/Ammar434/PROJET-BAC-BLANC/master/doc/image_3.png" title="Game" width="100%" crossorigin> | <img src="https://raw.githubusercontent.com/Ammar434/PROJET-BAC-BLANC/master/doc/image_4.png" title="Result" width="100%" crossorigin> |
 
 ## What is the purpose of this project?
 
@@ -27,12 +27,17 @@ To download this game, you can either clone this repository or download the zip 
 
 ## Requirements
 
+```shell
 pip install -r requirements.txt
+
+```
 
 ## Usage
 
 Open the terminal or command prompt and navigate to the directory where the game is located. Then run the following command:
 
+```shell
 python Final2.py
+```
 
 The game will start, and you can start guessing the letters of the secret word. You can guess a letter by typing it and pressing Enter. If the letter is correct, it will be revealed in the secret word. If the letter is incorrect, a part of the hangman's body will be drawn. You have a limited number of attempts to guess the word, so make sure to guess wisely.
